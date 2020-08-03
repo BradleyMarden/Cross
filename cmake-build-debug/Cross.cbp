@@ -80,7 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/C++/Cross/main.cpp">
+		<Unit filename="E:/C++/Cross/Includes/test.h">
+			<Option target="Cross"/>
+		</Unit>
+		<Unit filename="E:/C++/Cross/src/main.cpp">
+			<Option target="Cross"/>
+		</Unit>
+		<Unit filename="E:/C++/Cross/src/test.cpp">
 			<Option target="Cross"/>
 		</Unit>
 		<Unit filename="E:/C++/Cross/CMakeLists.txt">

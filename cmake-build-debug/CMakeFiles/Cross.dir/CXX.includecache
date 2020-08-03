@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
-E:/C++/Cross/main.cpp
+E:/C++/Cross/Includes/test.h
 iostream
 -
+
+E:/C++/Cross/src/main.cpp
+iostream
+-
+GL/glut.h
+-
+GL/gl.h
+-
+../Includes/test.h
+E:/C++/Cross/Includes/test.h
 

@@ -93,12 +93,12 @@ clean: CMakeFiles/Cross.dir/clean
 CMakeFiles/Cross.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cross.dir\build.make CMakeFiles/Cross.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cross.dir\build.make CMakeFiles/Cross.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\C++\Cross\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Cross"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\C++\Cross\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target Cross"
 .PHONY : CMakeFiles/Cross.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Cross.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\C++\Cross\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\C++\Cross\cmake-build-debug\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Cross.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\C++\Cross\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Cross.dir/rule

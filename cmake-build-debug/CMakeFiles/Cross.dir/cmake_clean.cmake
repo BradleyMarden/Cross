@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cross.dir/main.cpp.obj"
+  "CMakeFiles/Cross.dir/src/main.cpp.obj"
+  "CMakeFiles/Cross.dir/src/test.cpp.obj"
   "Cross.exe"
   "Cross.exe.manifest"
   "Cross.pdb"

@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/C++/Cross/main.cpp" "E:/C++/Cross/cmake-build-debug/CMakeFiles/Cross.dir/main.cpp.obj"
+  "E:/C++/Cross/src/main.cpp" "E:/C++/Cross/cmake-build-debug/CMakeFiles/Cross.dir/src/main.cpp.obj"
+  "E:/C++/Cross/src/test.cpp" "E:/C++/Cross/cmake-build-debug/CMakeFiles/Cross.dir/src/test.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
